@@ -1,0 +1,19 @@
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+
+  }
+  body{
+    margin-top: 20px;
+    padding: 150px;
+    background-image: url("st.jpg");
+    background-repeat: no-repeat;
+    background-position: centre;
+    justify-content: center;
+    background-size: cover;
+  }
+img{
+    align-items: center;
+   
+    
+}
